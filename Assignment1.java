@@ -430,6 +430,7 @@ class Assignment1{
                     break;
             
             default:System.out.println("Invalid option");
+                system.out.println("AMJ JINDABAD");
         }
     }
 }
